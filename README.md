@@ -26,7 +26,7 @@ In this tutorial, I will go over some basic configuration options you can do wit
 
 
 
-Creating a Supreme Admin with all access > Admin Panel > Roles > Add New Role > Go to "Permmissions" and check everthing in both the Tickets and Tasks menu, it should look like this 
+Creating a Supreme Admin with all access > Admin Panel > Roles > Add New Role > Go to "Permmissions" and check everything in both the Tickets and Tasks menu, it should look like this 
 
 ![image](https://github.com/user-attachments/assets/0af62618-5096-470f-bfe3-45accb73e52a) ![image](https://github.com/user-attachments/assets/e023a023-9e2e-4c37-967a-dd77c3b875d7)
 
@@ -37,7 +37,7 @@ You can add and configure Departments > Admin Panel > Agents > Departments > Add
 We can configure teams, > Admin Panel > Agents > Teams > Add New Team > You can assign certain agents to the team if you wish
 ![image](https://github.com/user-attachments/assets/f6aa1e52-5742-4e92-b18b-8b6195e9423a)
 
-For this tutorial I will allow anyone to create tickets within my osTicket system. But if you want better security and only want to allow registered users to create tickets,  We can change it in > Admin Panel > Settings > User Settings > Check the box "Registration Required" 
+For this tutorial I will allow anyone to create tickets within my osTicket system. If you want stronger security and only want to allow registered users to create tickets,  We can change it in > Admin Panel > Settings > User Settings > Check the box "Registration Required" 
 
 ![image](https://github.com/user-attachments/assets/eabb5c55-77a1-4a24-9f9d-f166fef067f6)
 
